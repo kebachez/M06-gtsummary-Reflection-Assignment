@@ -2,7 +2,7 @@
 title: "Summary Tables with gtsummary"
 subtitle: "M08 Reflection · Revealjs Presentation"
 author: "Kevin Bachez"
-institute: "IBM 6400, Cal Poly Pomona"
+institute: "IBM 6500, Cal Poly Pomona"
 date: today
 format: 
   revealjs:
@@ -532,7 +532,7 @@ Thank you!
 **Links**
 
 -   GitHub repo: (<https://github.com/kebachez/M06-gtsummary-Reflection-Assignment.git>)
--   GitHub Pages: \[EDIT: https://USERNAME.github.io/REPO/\]
+-   GitHub Pages: (<https://kebachez.github.io/M06-gtsummary-Reflection-Assignment/>)
 :::
 
 ::: {.column width="55%"}
