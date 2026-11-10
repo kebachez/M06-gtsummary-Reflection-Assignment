@@ -1,0 +1,22 @@
+/*-- scss:defaults --*/
+// Cal Poly Pomona colors layered on top of the "serif" theme
+$cpp-green: #1E4D2B;
+$cpp-gold:  #FFB500;
+
+$presentation-heading-color: $cpp-green;
+$link-color: darken($cpp-gold, 15%);
+$presentation-h1-font-size: 2.4em;
+$code-block-font-size: 0.75em;
+
+/*-- scss:rules --*/
+.reveal h1 {
+  border-bottom: 4px solid $cpp-gold;
+  padding-bottom: 0.2em;
+}
+.reveal .slide-number {
+  color: $cpp-green;
+  font-weight: bold;
+}
+.reveal .footer {
+  color: $cpp-green;
+}

@@ -1,0 +1,15 @@
+/* Extra CSS for the M08 reflection deck */
+.reveal .callout {
+  font-size: 0.9em;
+  border-radius: 8px;
+}
+.reveal .aside {
+  font-size: 0.6em;
+  color: #555;
+}
+.reveal table {
+  font-size: 0.8em;
+}
+.reveal .r-fit-text {
+  color: #1E4D2B;
+}
